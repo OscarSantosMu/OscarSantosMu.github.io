@@ -1,3 +1,3 @@
 # Personal site with my CV
 
-Check it out here -> [https://OscarSantos98.github.io](https://OscarSantos98.github.io)
+Check it out here -> [https://OscarSantos98.github.io/CV](https://OscarSantos98.github.io/CV)
